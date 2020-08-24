@@ -1,0 +1,5 @@
+1) For text chargater lenght reduce
+this.state.txtName.slice(0, 15)
+
+keystore: stlakshay
+password:password
